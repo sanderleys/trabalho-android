@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color> <!-- Verde para a AppBar -->
+    <color name="colorPrimaryDark">#388E3C</color> <!-- Verde escuro para status bar -->
+    <color name="colorAccent">#FFC107</color> <!-- Amarelo para acentuar -->
+    <color name="textColorPrimary">#FFFFFF</color> <!-- Branco para o texto da AppBar -->
+</resources>
